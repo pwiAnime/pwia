@@ -1,0 +1,25 @@
+{
+  "format": "CHIP-0007",
+  "sensitive_content": false,
+  "name": "Play with Iris #382",
+  "description": "This heroine wants to be only yours.",
+  "series_number": 382,
+  "collection": {
+    "id": "d7a06202-e9e6-4d85-9554-adb545e8a728",
+    "name": "Play with Iris",
+    "attributes": [
+      {
+        "type": "description",
+        "value": "The collection is designed to meet all your needs."
+      },
+      {
+        "type": "icon",
+        "value": "https://raw.githubusercontent.com/pwiAnime/pwia/refs/heads/main/logo.png"
+      },
+      {
+        "type": "banner",
+        "value": "https://raw.githubusercontent.com/pwiAnime/pwia/refs/heads/main/baner.png"
+      }
+    ]
+  }
+}
